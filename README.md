@@ -1,6 +1,4 @@
-🚢 Titanic Survival Classification Bharat Intern Project 🚢
-
-I am excited to share my latest project on Titanic Survival Classification! 🌟
+🚢 Titanic Survival Classification Bharat Intern Project 
 
 
 
